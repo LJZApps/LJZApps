@@ -3,7 +3,8 @@ My name is Leon and I am a software developer in the web and Android sector.
 
 ## About me
 - I'm 18 Years old
-- Trainee in a software development company
+- Trainee in a software development company 💻
+- I'm from Germany 🇩🇪
 
 ## My skills
 - Web:
@@ -11,9 +12,11 @@ My name is Leon and I am a software developer in the web and Android sector.
   - Frameworks: Symfony, React
 - Android:
   - Languages: Kotlin, Java, XML
+- Speech:
+  - Languages: German, English 🇩🇪🇬🇧
 
 ## My projects
-My current main project is the Talk to me Android app.
+My current main project is the Talk to me Android app. 📱
 <!--
 **LnZpk2302/LnZpk2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
