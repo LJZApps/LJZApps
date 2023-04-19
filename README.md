@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Leon and I am a software developer in the web and Android sector.
+My name is Leon and I am a software developer in the Web and Android sector.
 
 ## About me
 - I'm 18 Years old
@@ -8,8 +8,8 @@ My name is Leon and I am a software developer in the web and Android sector.
 
 ## My skills
 - Web:
-  - Languages: PHP, HTML, JavaScript, Twig, Vue, React
-  - Frameworks: Symfony, React
+  - Languages: PHP, HTML, JavaScript, Twig
+  - Frameworks: Symfony, React, Vue(, Laravel)
 - Android:
   - Languages: Kotlin, Java, XML, Jetpack
 - Speech:
