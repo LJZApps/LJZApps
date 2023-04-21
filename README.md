@@ -11,7 +11,7 @@ My name is Leon and I am a software developer in the Web and Android sector.
   - Languages: PHP, HTML, JavaScript, Twig
   - Frameworks: Symfony, React, Vue(, Laravel)
 - Android:
-  - Languages: Kotlin, Java, XML, Jetpack
+  - Languages: Kotlin, Java, XML, Jetpack Compose
 - Speech:
   - Languages: German, English 🇩🇪🇬🇧
 
