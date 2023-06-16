@@ -18,8 +18,8 @@ My name is Leon and I am a software developer in the Web and Android sector.
 ## My projects
 ### Talk to me
 - A chat app written with Kotlin and XML
-- This app has been in development for more then 3 years (was my first project ever)
-- Currently being rewritten into jetpack compose
+- This project has been started in November 2020
+- Currently being rewritten to jetpack compose
 - Services, I'm using for this App:
   - Firebase:
     - Authentification (in rewrite)
