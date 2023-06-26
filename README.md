@@ -21,6 +21,7 @@ My name is Leon and I am a software developer in the Web and Android sector.
 - This project has been started in November 2020
 - Currently being rewritten to jetpack compose
 - Services, I'm using for this App:
+  - Hetzner Managed Server (in rewrite)
   - Firebase:
     - Authentification (in rewrite)
     - Realtime Database
