@@ -31,7 +31,7 @@ My name is Leon and I am a software developer in the Web and Android sector.
 ### Nucleus
 - A social media app written with Kotlin and Jetpack Compose
 - This project has been started in March 2023
-- Currently in very early development
+- Currently on hold
 - Services, I'm using for this App:
   - Firebase:
     - Authentification
