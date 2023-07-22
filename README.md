@@ -43,7 +43,7 @@ My name is Leon and I am a software developer in the Web and Android sector.
 - Currently on hold
 - Services, I'm using for this App:
   - Firebase:
-    - Authentification
+    - Authentication
     - Realtime Database
     - Firestore
     - Analytics and Crashlytics
