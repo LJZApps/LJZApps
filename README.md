@@ -13,7 +13,7 @@ My name is Leon and I am a software developer in the Web and Android sector.
 - Android:
   - Languages: Kotlin, Java, XML, Jetpack Compose
 - Speech:
-  - Languages: German, English 🇩🇪🇬🇧
+  - Languages: German, English
 
 ## My projects
 ### Talk to me - Android
