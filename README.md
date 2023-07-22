@@ -29,7 +29,7 @@ My name is Leon and I am a software developer in the Web and Android sector.
     - Storage
     - Analytics and Crashlytics
 ### Talk to me - Backend
-  - Backend system for Talk to me written with PHP and TWIG
+  - Backend system for Talk to me written with PHP
   - This project has been started in June 2023
   - Currently in development
   - Services, I'm using for this Backend:
