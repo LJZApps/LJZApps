@@ -35,7 +35,6 @@ My name is Leon and I am a software developer in the Web and Android sector.
   - Services, I'm using for this Backend:
     - Symfony 6.3
     - Firebase Admin SDK for PHP:
-      - Authentication
       - Realtime Database (Only for data migration)
 ### Nucleus
 - A social media app written with Kotlin and Jetpack Compose
