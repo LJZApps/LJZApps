@@ -2,7 +2,7 @@
 My name is Leon and I am a software developer in the Web and Android sector.
 
 ## About me
-- I'm 18 Years old
+- I'm 19 Years old
 - Trainee in a software development company 💻
 - I'm from Germany 🇩🇪
 
