@@ -7,6 +7,8 @@ My name is Leon and I am a software developer in the Web and Android sector.
 - I'm from Germany 🇩🇪
 
 ## My knowledge
+- General:
+  - Languages: Python
 - Web:
   - Languages: PHP, JavaScript, Twig
   - Frameworks: Symfony, React, Vue
