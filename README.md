@@ -36,8 +36,6 @@ My name is Leon and I am a software developer in the Web and Android sector.
   - Currently in development
   - Services, I'm using for this Backend:
     - Symfony 6.3
-    - Firebase Admin SDK for PHP:
-      - Realtime Database (Only for data migration)
 ### Pixoo64 Kotlin library
   - A library for the Pixoo64 API
   - Alowes you to script your Pixoo64 with Kotlin
