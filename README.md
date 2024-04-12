@@ -18,7 +18,7 @@ My name is Leon and I am a software developer in the Web and Android sector.
   - Languages: German, English
 
 ## My projects
-### Talk to me - Android
+### Talk to me - Android (MAIN PROEJCT)
 - A chat app written with Kotlin and XML
 - There are plans to port it to iOS, MacOS and Windows
 - This project has been started in November 2020
@@ -30,7 +30,7 @@ My name is Leon and I am a software developer in the Web and Android sector.
     - Firestore
     - Storage
     - Analytics and Crashlytics
-### Talk to me - Backend
+### Talk to me - Backend (REQUIRED FOR MAIN PROJECT)
   - Backend system for Talk to me written with PHP
   - This project has been started in June 2023
   - Currently in development
@@ -38,7 +38,11 @@ My name is Leon and I am a software developer in the Web and Android sector.
     - Symfony 6.3
     - Firebase Admin SDK for PHP:
       - Realtime Database (Only for data migration)
-### Nucleus
+### Pixoo64 Kotlin library
+  - A library for the Pixoo64 API
+  - Alowes you to script your Pixoo64 with Kotlin
+  - As a template I used the Python library from SomethingWithComputers
+### Nucleus (DISCONTINUED)
 - A social media app written with Kotlin and Jetpack Compose
 - This project has been started in March 2023
 - Currently on hold
