@@ -9,8 +9,8 @@ My name is Leon and I am a software developer in the Web and Android sector.
 ## My knowledge
 - General:
   - Languages: Python
-- Web:
-  - Languages: PHP, JavaScript, Twig
+- Web/Backend:
+  - Languages: PHP, Kotlin, JavaScript, Twig
   - Frameworks: Symfony, React, Vue
 - Android:
   - Languages: Kotlin, Java, XML, Jetpack Compose
