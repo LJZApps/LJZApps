@@ -18,6 +18,7 @@ My name is Leon and I am a software developer in the Web and Android sector.
   - Languages: German, English
 
 ## My projects
+### New Project is currently in development 🤫
 ### Talk to me - Android (DISCONTINUED)
 - A chat app written with Kotlin and XML
 - There are plans to port it to iOS, MacOS and Windows
