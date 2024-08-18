@@ -20,19 +20,19 @@ My name is Leon and I am a software developer in the Web and Android sector.
 ## My projects
 ### Questify
 #### Questify - Android
-- TODO App
 - **Project start:** May 27, 2024
+- TODO App
 #### Questify - Backend
+- **Project start:** June 30, 2024
 - Backend for Questify App
 - Written with PHP
-- **Project start:** June 30, 2024
 - **Services:**
   - Laravel
 ### Talk to me - DISCONTINUED
 #### Talk to me - Android
+- **Project start:** November 2020
 - A chat app written with Kotlin and XML
 - There were plans to port it to iOS, MacOS and Windows
-- **Project start:** November 2020
 - **Services:**
   - Hetzner Managed Server (Symfony Backend)
   - Firebase:
@@ -41,13 +41,13 @@ My name is Leon and I am a software developer in the Web and Android sector.
     - Storage
     - Analytics and Crashlytics
 #### Talk to me - Backend
-  - Backend system for Talk to me written with PHP
   - **Project start:** June 2023
+  - Backend system for Talk to me written with PHP
   - **Services:**
     - Symfony 6.3
 ### Nucleus - DISCONTINUED
-- A social media app written with Kotlin and Jetpack Compose
 - **Project start:** March 2023
+- A social media app written with Kotlin and Jetpack Compose
 - **Services:**
   - Firebase:
     - Authentication
