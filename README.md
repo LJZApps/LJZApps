@@ -23,7 +23,7 @@ My name is Leon and I am a software developer in the Web and Android sector.
 #### Questify - Backend
 - Backend for Questify App
 - Written with PHP
-- ##### Services:
+- **Services:**
   - Laravel
 ### Talk to me - DISCONTINUED
 #### Talk to me - Android
