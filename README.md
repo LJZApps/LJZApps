@@ -20,7 +20,8 @@ My name is Leon and I am a software developer in the Web and Android sector.
 ## My projects
 #### Questify
 - Test
-### Talk to me - Android - DISCONTINUED
+### Talk to me
+#### Talk to me - Android - DISCONTINUED
 - A chat app written with Kotlin and XML
 - There are plans to port it to iOS, MacOS and Windows
 - This project has been started in November 2020
@@ -32,7 +33,7 @@ My name is Leon and I am a software developer in the Web and Android sector.
     - Firestore
     - Storage
     - Analytics and Crashlytics
-### Talk to me - Backend - DISCONTINUED
+#### Talk to me - Backend - DISCONTINUED
   - Backend system for Talk to me written with PHP
   - This project has been started in June 2023
   - Currently in development
