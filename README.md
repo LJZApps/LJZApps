@@ -22,6 +22,9 @@ My name is Leon and I am a software developer in the Web and Android sector.
 #### [Android](https://github.com/LJZApps/Questify-Android)
 - **Project start:** May 27, 2024
 - TODO App
+#### iOS
+- **Project start:** October 27, 2024
+  TODO App
 #### [Backend](https://github.com/LJZApps/questify-api)
 - **Project start:** June 30, 2024
 - Backend for Questify App
