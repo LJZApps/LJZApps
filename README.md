@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Leon and I am a software developer in the Web and Android sector.
+My name is Leon and I am a software developer in the Backend and Android sector.
 
 ## About me
 - I'm 19 Years old
