@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LJZApps&show_icons=true&hide_rank=true&custom_title=Hi%20there%20%F0%9F%91%8B%2C%20I'm%20Leon&title_color=886ce4&icon_color=886ce4&text_color=999&bg_color=1c1c1c&hide_border=true&hide=stars,commits,prs,issues,contribs" alt="Leon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LJZApps&show_icons=true&hide_rank=true&custom_title=Hi%20there%20%F0%9F%91%8B%2C%20I'm%20Leon&title_color=886ce4&icon_color=886ce4&text_color=999&bg_color=1c1c1c&hide_border=true&hide=commits,prs,issues,contribs" alt="Leon's GitHub Stats" />
 </div>
 
 ### Hi there 👋
