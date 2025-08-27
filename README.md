@@ -8,6 +8,8 @@ I'm Leon, a 20-year-old software developer from Germany 🇩🇪, currently work
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/JstnZpk" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/JstnZpk?logo=twitter&style=for-the-badge" alt="JstnZpk" /></a>
+  <br/>
+  <br/>
 <a href="mailto:lnzpk.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
