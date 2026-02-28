@@ -3,7 +3,7 @@
 </div>
 
 ### Hi there 👋
-I'm Leon, a 20-year-old software developer from Germany 🇩🇪, currently working as a trainee in a software development company. I'm passionate about building things for the web and mobile devices, with a focus on Backend and Android development. 🚀
+I'm Leon, a 21-year-old software developer from Germany 🇩🇪, currently working as a trainee in a software development company. I'm passionate about building things for the web and mobile devices, with a focus on Backend and Android development. 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
